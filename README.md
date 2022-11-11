@@ -12,3 +12,5 @@ Javascript
 <img src="assets/images/Generator_password_screenshot.png">
 
 ## Website Link
+https://dpinkus87.github.io/password-generator/
+
